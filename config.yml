@@ -1,0 +1,26 @@
+# Material list: 'http://jd.bukkit.org/rb/apidocs/org/bukkit/Material.html'
+# For empty slots put 'EMPTY'
+Leather_Quiver:
+  Total-Arrows: 128
+  Recipe:
+  - LEATHER,LEATHER,LEATHER
+  - LEATHER,LEATHER_CHESTPLATE,LEATHER
+  - LEATHER,LEATHER,LEATHER
+Iron_Quiver:
+  Total-Arrows: 192
+  Recipe:
+  - IRON_INGOT,IRON_INGOT,IRON_INGOT
+  - IRON_INGOT,IRON_CHESTPLATE,IRON_INGOT
+  - IRON_INGOT,IRON_INGOT,IRON_INGOT
+Gold_Quiver:
+  Total-Arrows: 256
+  Recipe:
+  - GOLD_INGOT,GOLD_INGOT,GOLD_INGOT
+  - GOLD_INGOT,GOLD_CHESTPLATE,GOLD_INGOT
+  - GOLD_INGOT,GOLD_INGOT,GOLD_INGOT
+Diamond_Quiver:
+  Total-Arrows: 512
+  Recipe:
+  - DIAMOND,DIAMOND,DIAMOND
+  - DIAMOND,DIAMOND_CHESTPLATE,DIAMOND
+  - DIAMOND,DIAMOND,DIAMOND
